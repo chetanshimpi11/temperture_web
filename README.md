@@ -61,4 +61,4 @@ The Temperature Wizard project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer at [Alok Sharma](mailto:sharmaalok02gwl@gmail.com)
+If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer at [chetan shimpi](shimpic7875@gmail.com)
