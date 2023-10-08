@@ -49,9 +49,7 @@ Contributions to Temperature Wizard are welcome! If you have any ideas, improvem
 4. Push to the branch: `git push origin my-feature-branch`
 5. Submit a pull request.
 
-## License
 
-The Temperature Wizard project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
